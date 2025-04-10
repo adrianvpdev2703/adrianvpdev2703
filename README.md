@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">• My name is Adrian Vaca Paniagua, im 21 years old <br>• Currently living in Santa Cruz, Bolivia<br>• Im a 6th Semester Systems Engineering Student at Universidad NUR<br>• My current goal is to become a Full Stack Developer and develop and code for a software company<br>• For hobbies i like to: Gaming, Play Guitar, listen to Music, Read some Manga and Books, ocassionally watch a Movie or an Anime, and staying as healthy as possible by doing Gym and also relax by doing Meditation, Journaling and Amateur Drawing<br>• I have Intermidiate/Begginer skills in Video Editing and Photo Editing<br>• I speak Native Spanish, Advanced English, and currently learning Italian<br>• I have experience using and maintaning an Arch Linux OS for my developing and every day tasks</p>
+<p align="center">• My name is Adrian Vaca Paniagua, im 21 years old <br>• Currently living in Santa Cruz, Bolivia<br>• Im a 6th Semester Systems Engineering Student at <a href="cvsc.nur.edu">Universidad NUR</a><br>• My current goal is to become a Full Stack Developer and develop and code for a software company<br>• For hobbies i like to: Gaming, Play Guitar, listen to Music, Read some Manga and Books, ocassionally watch a Movie or an Anime, and staying as healthy as possible by doing Gym and also relax by doing Meditation, Journaling and Amateur Drawing<br>• I have Intermidiate/Begginer skills in Video Editing and Photo Editing<br>• I speak Native Spanish, Advanced English, and currently learning Italian<br>• I have experience using and maintaning an Arch Linux OS for my developing and every day tasks</p>
 
 ###
 
