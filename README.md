@@ -58,6 +58,14 @@
 
 ###
 
-<p align="center">• Operating Systems: Arch Linux, Windows<br>• IDEs & Editors: Visual Studio Code, IntelliJ IDEA, Android Studio, NeoVim<br>• Dev Tools: Git, GitHub, Postman<br>• Package Managers & Platforms: NPM, Linux terminal</p>
+<p align="center">• Operating Systems: Arch Linux, Windows, Virtualization with VirtualBox<br>• IDEs & Editors: Visual Studio Code, IntelliJ IDEA, Pycharm, Android Studio, NeoVim<br>• Dev Tools: Git, GitHub, Postman, Anaconda, Jupyter Notebook<br>• Package Managers : NPM, pip, conda (via Anaconda)<br>• Other Tools : Terminal (bash/zsh), Docker (if you use it), SSH</p>
+
+###
+
+<h2 align="center">Arch Linux Enthusiast</h2>
+
+###
+
+<p align="center">I use and maintain Arch Linux for development and everyday tasks. I enjoy the minimalism and control it provides and ther learning experience it gave me by learning its basics.</p>
 
 ###
