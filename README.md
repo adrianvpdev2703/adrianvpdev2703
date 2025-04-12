@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">• Tech-Related: Coding, building projects, experimenting with Linux<br><br>• Creative: Video & photo editing (beginner/intermediate), amateur drawing<br><br>• Lifestyle: Gym, meditation, journaling<br><br>• Entertainment: Gaming, playing guitar, music, manga, books, anime & movies</p>
+<p align="center">• Tech-Related: Coding, building projects, experimenting with Linux<br><br>• Creative: Video & Photo editing (beginner/intermediate), Amateur Drawing<br><br>• Lifestyle: Gym, meditation, journaling<br><br>• Entertainment: Gaming, playing guitar, music, manga, books, anime & movies</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">• Native Spanish, Advanced C1 English, currently Learning Italian</p>
+<p align="center">• Native Spanish, Advanced C1 English, Currently Learning Italian</p>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<p align="center">• Operating Systems: Arch Linux, Windows, Virtualization with VirtualBox<br>• IDEs & Editors: Visual Studio Code, IntelliJ IDEA, Pycharm, Android Studio, NeoVim<br>• Dev Tools: Git, GitHub, Postman, Anaconda, Jupyter Notebook<br>• Package Managers : NPM, pip, conda (via Anaconda)<br>• Other Tools : Terminal (bash/zsh), Docker (if you use it), SSH</p>
+<p align="center">• Operating Systems & Linux Distros: Arch Linux, Ubuntu, Windows, Virtualization with VirtualBox<br>• IDEs & Editors: Visual Studio Code, IntelliJ IDEA, Pycharm, Android Studio, NeoVim<br>• Dev Tools: Git, GitHub, Postman, Anaconda, Jupyter Notebook<br>• Package Managers : NPM, pip, conda (via Anaconda)<br>• Other Tools : Terminal (bash/zsh), Docker, SSH</p>
 
 ###
 
@@ -66,6 +66,6 @@
 
 ###
 
-<p align="center">I use and maintain Arch Linux for development and everyday tasks. I enjoy the minimalism and control it provides and ther learning experience it gave me by learning its basics.</p>
+<p align="center">I use and maintain Arch Linux system with the window manager Hyprland to maximize my productivity for development and everyday tasks. I enjoy the minimalism and control it provides and the learning experience it gave me by learning its basics.</p>
 
 ###
