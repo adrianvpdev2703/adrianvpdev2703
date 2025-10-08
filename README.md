@@ -33,6 +33,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -66,10 +68,46 @@
 
 ###
 
+<h3 align="center">🧠 Intermediate / Advanced Experience</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+</div>
+
+###
+
+<h3 align="center">🚀 Basic Experience</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+</div>
+
+###
+
+<h3 align="center">🌱 Currently Learning / Upcoming</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
+</div>
+
+###
+
 <p align="center">
-  • <b>Intermediate:</b> Node.js, Express.js<br>
-  • <b>Basic experience:</b> Ionic, Angular (in Ionic), React, Flutter<br>
-  • <b>Upcoming:</b> NestJS, React Native, possibly Vue
+  I have intermediate experience working with backend frameworks like <b>Node.js</b> and <b>Express.js</b>.  
+  I also have basic experience developing with <b>Ionic</b> and <b>Angular</b> for hybrid apps, as well as <b>React</b> and <b>Flutter</b> for frontend and mobile.  
+  Currently, I’m expanding my knowledge into <b>NestJS</b>, <b>React Native</b>, and possibly <b>Vue.js</b> to strengthen my full stack skillset.
 </p>
 
 ###
