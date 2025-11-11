@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">• My name is Adrian Vaca Paniagua, im 21 years old <br><br>• Currently living in Santa Cruz, Bolivia<br><br>• Im a 6th Semester Systems Engineering Student at Universidad NUR<br><br>• My current goal is to become a Full Stack Developer and develop and code for a software company</p>
+<p align="center">• My name is Adrian Vaca Paniagua, im 21 years old <br><br>• Currently living in Santa Cruz, Bolivia<br><br>• Final-semester Systems Engineering student at Universidad NUR, currently seeking internship opportunities to gain practical experience<br><br>• My current goal is to become a Full Stack Developer and develop and code for a software company</p>
 
 ###
 
